@@ -1,0 +1,72 @@
+h1 {
+    color: blue;
+    border-bottom: 2px solid black;
+    offset-position: center;
+}
+
+.hN {
+    color: brown;
+    border-bottom: 1px solid black;
+}
+
+p {
+    font-size: 20px;
+    color: lightcoral;
+    border: 1px solid black;
+}
+
+body {
+    background-color: bisque;
+}
+
+.box-1 {
+    color: blue;
+    background-color: blue;
+}
+
+.box-2 {
+    color: red;
+    background-color: red;
+}
+
+.box-3 {
+    color: blue;
+    background-color: blue;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+#sessao-textos {
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: linen;
+}
+
+#sessao-privada {
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.idade {
+    background-color: palegoldenrod;
+    border-radius: 20px;
+}
+
+.nome {
+    background-color: palegoldenrod;
+    text-transform: capitalize;
+    border-radius: 20px;
+    margin: 20px;
+
+}
+
+.texto {
+    border-radius: 20px;
+    background-color: palegoldenrod;
+    margin: 20px;
+}
